@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=astitvaAgarwal2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📧 Lets Connect:
-![Email:][astitva.agarwal2001@gmail.com]
-![LinkedIn:][https://www.linkedin.com/in/astitva-agarwal-4251281b7/]
+Email: astitva.agarwal2001@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/astitva-agarwal-4251281b7/
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
